@@ -1,0 +1,12 @@
+/* SaleStatusGraph.css */
+.sale-status-container {
+    text-align: center;
+    padding: 20px;
+
+  }
+  
+  .canvasjs-chart {
+    max-width: 40%;
+    height: auto;
+  }
+  
