@@ -171,7 +171,7 @@ const ReturnItem = () => {
                           </div>
                         </div>
                       </td>
-                    </tr>
+                    </tr> 
 
                     {/* {openActionRow === info.id && ( */}
 
