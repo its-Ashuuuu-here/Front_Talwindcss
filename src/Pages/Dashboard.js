@@ -11,8 +11,8 @@ const Dashboard = () => {
   return (
     <div className="flex flex-col bg-[#f9fbfd] p-1 md:p-4 lg:p-8 xl:p-12">
       <DashboardState />
-      <DateTime />
-
+      {/* Add date and time  */}
+      <DateTime /> 
       {/* CardBox section */}
       <div className="flex flex-col md:flex-row mt-2">
         <CardBox />
