@@ -39,12 +39,12 @@ const SideBar = () => {
         </div>
         <ul className={`pl-8 pb-4 ${isMenuOpen ? "block" : "hidden"}`}>
           <li>
-            <Link
+            <Link 
               to="/"
               className="flex items-center p-2 text-white-900 rounded-lg hover:no-underline text-yellow-200 hover:text-yellow-200"
             >
               Dashboard
-            </Link>
+            </Link> 
           </li>
           <li>
             <div
